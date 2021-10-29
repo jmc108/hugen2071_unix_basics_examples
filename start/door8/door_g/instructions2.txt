@@ -1,0 +1,15 @@
+You found the correct door.
+Now, this directory contains your prize, a lost sacred manuscript, the scroll (text file) ran.txt.
+Try reading the scroll (viewing the contents of the text file).
+
+You find that the scroll has been used as a palimpsest - the original text has been scraped off and written over by a different scribe.
+
+After scrutinizing the scroll, you can faintly distinguish some of the old text between the lines, and you see that some of the lines contain symbols from a more modern alphabet.
+
+You decide to remove the lines containing the following characters:
+	a b ! & e f Q S % |
+(Be careful, as some of these symbols have special meanings in the context of regular expressions.)
+
+Keep the desired lines and transcribe them out to a new scroll (text file) called nggyu.txt .
+Now read the transcribed scroll nggyu.txt (you may wish to zoom out by using holding down the command key and pressing the "minus sign" key a few times).
+

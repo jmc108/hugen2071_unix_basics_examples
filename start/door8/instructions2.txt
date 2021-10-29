@@ -1,0 +1,5 @@
+Good, you found the correct door.
+Now figure out the next (and final) door to enter, where you will find one more puzzle and an amazing prize.
+In addition to doors a-j, you see boxes on the ground (files) labeled a-j.
+Determine which box is heaviest (contains the greatest number of bytes), and go through the corresponding door.
+
